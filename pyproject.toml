@@ -38,7 +38,7 @@ dependencies = [
     "scikit-image",
     "scikit-learn",
     "tabulate",  # used by pandas.DataFrame.to_markdown (for logging context)
-    "tensorflow==2.19.0",
+    "tensorflow",
     "tensorflow_datasets>=4.9.7",
     "tqdm",
     "typeguard>=4.4.1",
